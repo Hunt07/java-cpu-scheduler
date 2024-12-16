@@ -1,0 +1,26 @@
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+.button {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #1976d2;
+}
+
+.progress-bar {
+    -fx-accent: #4caf50;
+}
+
+.table-view {
+    -fx-background-color: white;
+}
+
+.tab-pane {
+    -fx-background-color: white;
+}
